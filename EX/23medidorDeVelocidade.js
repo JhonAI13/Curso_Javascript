@@ -1,7 +1,7 @@
 // Velocidade máxima de até 70
 // a cada 5km acima de limite você ganha 1 ponto 
 // caso pontos maior que 11 -> "Carreira Suspendida"
-const resultado = verificaVelocidade(89);
+const resultado = verificaVelocidade(78);
 console.log(resultado)
 
 function verificaVelocidade(entrada){
